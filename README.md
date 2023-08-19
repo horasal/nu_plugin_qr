@@ -1,5 +1,7 @@
 A plugin for nushell to decode/encode qrcode.
 
+![Sample](./sample.jpg)
+
 ### Install
 
 ```
